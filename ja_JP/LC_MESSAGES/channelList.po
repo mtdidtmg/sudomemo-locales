@@ -17,4 +17,4 @@ msgid "PAGE"
 msgstr "ページ"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d/%d"
+msgstr "PAGE_COUNTER_FORMAT"
